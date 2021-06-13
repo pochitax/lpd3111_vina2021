@@ -1,0 +1,116 @@
+{
+    "alumnos":[
+        {
+            "id": 1,
+            "nombre": "Jhonny Alan Allendes Hidalgo",
+            "email": "jh.allendes@duocuc.cl",
+            "rut": "20501918-9",
+            "avatar": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 2,
+            "nombre": "Daniel Antio",
+            "email": "da.antio@alumnos.duoc.cl",
+            "rut": "19618757-K",
+            "avatar": "https://randomuser.me/api/portraits/lego/2.jpg",
+            "descripcion": "Nam ac lorem in ipsum tincidunt imperdiet."
+        },
+        {
+            "id": 3,
+            "nombre": "Francisco José Burchardt Pizarro",
+            "email": "fr.burchardt@duocuc.cl",
+            "rut": "19079938-7",
+            "avatar": "https://randomuser.me/api/portraits/lego/3.jpg",
+            "descripcion": "Etiam sit amet ex aliquet, mattis sem et, sodales lectus."
+        },
+        {
+            "id": 4,
+            "nombre": "Elías Benjamín Díaz Bravo",
+            "email": "e.diaz@duocuc.cl",
+            "rut": "20980584-7",
+            "avatar": "https://randomuser.me/api/portraits/lego/4.jpg",
+            "descripcion": "Integer sit amet nisl a odio iaculis facilisis."
+        },
+        {
+            "id": 5,
+            "nombre": "Eros Fonseca",
+            "email": "er.fonseca@alumnos.duoc.cl",
+            "rut": "19490565-3",
+            "avatar": "https://randomuser.me/api/portraits/lego/5.jpg",
+            "descripcion": "Cras at metus nec tellus pretium maximus."
+        },
+        {
+            "id": 6,
+            "nombre": "Cristian Antonio González Rodríguez",
+            "email": "cristi.gonzalezr@duocuc.cl",
+            "rut": "18916190-5",
+            "avatar": "https://randomuser.me/api/portraits/lego/6.jpg",
+            "descripcion": "Quisque nec ante quis neque finibus malesuada nec eu velit."
+        },
+        {
+            "id": 7,
+            "nombre": "Luis Fernando Henríquez Cabrera",
+            "email": "lui.henriquezc@duocuc.cl",
+            "rut": "20089208-9",
+            "avatar": "https://randomuser.me/api/portraits/lego/7.jpg",
+            "descripcion": "Sed porta massa sed velit cursus, quis vestibulum dui tincidunt."
+        },
+        {
+            "id": 8,
+            "nombre": "Jarmilla Dana Herrera Marín",
+            "email": "jar.herrera@duocuc.cl",
+            "rut": "16499832-0",
+            "avatar": "https://randomuser.me/api/portraits/lego/8.jpg",
+            "descripcion": "Sed luctus lorem sit amet efficitur hendrerit."
+        },
+        {
+            "id": 9,
+            "nombre": "Carla Miranda Marchant",
+            "email": "carl.mirandam@duocuc.cl",
+            "rut": "20688893-8",
+            "avatar": "https://randomuser.me/api/portraits/lego/9.jpg",
+            "descripcion": "Sed vitae ipsum in lectus facilisis fermentum at in arcu."
+        },
+        {
+            "id": 10,
+            "nombre": "Bastián Ignacio Montes Letelier",
+            "email": "ba.montes@duocuc.cl",
+            "rut": "20349525-0",
+            "avatar": "https://randomuser.me/api/portraits/lego/1.jpg",
+            "descripcion": "Curabitur at urna eu ex fermentum tincidunt ut non velit."
+        },
+        {
+            "id": 11,
+            "nombre": "Claudia Alejandra Oñate Arancibia",
+            "email": "cla.onate@duocuc.cl",
+            "rut": "14001340-4",
+            "avatar": "https://randomuser.me/api/portraits/lego/2.jpg",
+            "descripcion": "Nulla volutpat elit eget leo commodo porta."
+        },
+        {
+            "id": 12,
+            "nombre": "Jorge Ignacio Salgado Riffo",
+            "email": "jorg.salgador@duocuc.cl",
+            "rut": "19908709-6",
+            "avatar": "https://randomuser.me/api/portraits/lego/3.jpg",
+            "descripcion": "Nulla sed tellus sed libero aliquet condimentum."
+        },
+        {
+            "id": 13,
+            "nombre": "Grace Eileen Schiller Oyarzún",
+            "email": "g.schiller@duocuc.cl",
+            "rut": "17354887-7",
+            "avatar": "https://randomuser.me/api/portraits/lego/4.jpg",
+            "descripcion": "Nam congue turpis nec gravida pretium."
+        },
+        {
+            "id": 14,
+            "nombre": "Xabier Nicolás Villablanca Bascur",
+            "email": "xa.villablanca@duocuc.cl",
+            "rut": "20184849-0",
+            "avatar": "https://randomuser.me/api/portraits/lego/5.jpg",
+            "descripcion": "Nullam et erat vitae sem rhoncus feugiat faucibus ut dui."
+        }
+    ]
+}
